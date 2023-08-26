@@ -1,5 +1,3 @@
-# Made by @iShiKKi-AKABANE
-
 from pyrogram import Client
 import os
 
